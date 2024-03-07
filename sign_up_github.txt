@@ -1,0 +1,16 @@
+Sign Up Github
+1. Masukkan Email (sesuai git config local kemarin)
+2. Masukkan Username (Sesuai git config lokal kemarin)
+3. Finish --> Dashboard
+
+Staging --> Merapikan file2 yang mau di save/kumpulkan
+Commit --> File2 di save atau dikumpulkan untuk di logging (di catat sejarahnya / track / jejak nya)
+Log --> Catatan commit
+Git Push --> Upload (update dari diri sendiri)
+
+Git Pull --> Download (ambil update dari repo / orang lain)
+
+Fork --> Ambil repository orang lain untuk jadi repository sendiri (masih di dalam Github) --> untuk ikut kontribusi 
+
+Clone --> Ambil repository orang lain untuk jadi repository sendiri (Buat repository lokal / Download seluruh file) --> Eksperimen sendiri tanpa kontribusi, dipakai sendiri.
+ 

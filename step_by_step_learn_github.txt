@@ -1,0 +1,15 @@
+1. Git push ke repo github sendiri
+
+2. Git pull dari github repo sendiri
+
+3. Add collaborator (jika private repo)
+
+4. Git fork repo orang lain ke repo sendiri
+
+5. Git clone repo fork kr repo lokal
+
+6. Git branch untuk development
+
+7. Add and commit
+
+6. Create Pull Request (PR) untuk gabung (merging)

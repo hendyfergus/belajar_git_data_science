@@ -1,0 +1,32 @@
+# Eksekusi Sekali Saja
+git config --global user.name "IniIsiNama"
+git config --global user.email "IniIsiEmail"
+
+
+# Eksekusi berulang-ulang dalam project
+git init "Nama Folder" <-- initialize git on the folder
+cd "Nama Folder" <-- Change Directory
+git status  <-- One of the Most Important! 
+
+git add . <--
+git add "filename"
+git commit -m "Your Commit Message"
+git log
+
+git checkout "branch / commit hash"
+
+git reset --soft "commit-hash" <-- staging di keep
+git reset --hard "commit-hash" <-- staging dibuang
+git restore --staged .
+
+git branch "nama branch"
+git checkout "nama branch" <-- free to do anything here!
+
+# back to master
+git checkout master
+git log
+
+master/main --> Release on Production
+devel/dev/new_branch --> New Develompment / Repairing / new idea / ..
+
+
